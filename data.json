@@ -1,0 +1,45 @@
+{
+	"5214588091": {
+		"action": true,
+		"lot_5215070683": {
+			"price": 25000000,
+			"count_yers": "5",
+			"files_1": "1.pdf",
+			"files_2": "2.pdf",
+			"files_3": "3.pdf",
+			"esf": {
+				"esf_1": "ESF-111240015624-20251229-12621294",
+				"esf_2": "ESF-111240015624-20260130-74154976",
+				"esf_3": "ESF-111240015624-20260130-75849675",
+				"esf_4": "ESF-111240015624-20260123-62874555",
+				"esf_5": "ESF-111240015624-20260105-26531204"
+			},
+			"esf_zip": "BotZauvka.zip"
+		}
+	},
+	"order_12346": {
+		"action": false,
+		"lot_1": {
+			"price": 500,
+			"title": "Третий товар",
+			"description": "...",
+			"files": ""
+		}
+	},
+	"order_23456": {
+		"action": false,
+		"lot_1": {
+			"price": 1500.5,
+			"title": "Наименование товара",
+			"description": "Описание лота",
+			"files_1": "path/to/file1.jpg",
+			"files_2": "path/to/file2.pdf"
+		},
+		"lot_2": {
+			"price": 2700,
+			"title": "Другой товар",
+			"description": "Другое описание",
+			"files_1": "path/to/file3.png"
+		}
+	}
+}

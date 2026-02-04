@@ -1,0 +1,16 @@
+[project]
+name = "botzauvka"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.2",
+    "loguru>=0.7.3",
+    "pyarmor>=9.2.3",
+    "pyinstaller>=6.18.0",
+    "requests>=2.32.5",
+    "selenium>=4.40.0",
+    "undetected-chromedriver>=3.5.5",
+    "webdriver-manager>=4.0.2",
+]
